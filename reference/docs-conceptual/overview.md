@@ -48,7 +48,7 @@ La mayoría de los cmdlets devuelven objetos que se pueden manipular y después 
 Get-Service | Get-Member
 ```
 
-### <a name="consistency"></a>Consistency
+### <a name="consistency"></a>Consistencia
 
 La administración de sistemas puede ser una tarea compleja. Las herramientas que tienen una interfaz coherente ayudan a controlar esa complejidad inherente. Lamentablemente, ni las herramientas de línea de comandos ni los objetos Component Object Model (COM) que permiten ejecutar scripts son famosos por su coherencia.
 
